@@ -1,7 +1,7 @@
 # library management system
 This is the readme file for library management system. When you are using this user interface, please
 
-#Authors
+# Authors
 Lianrui Yang
 
 Xiangyu Zeng
