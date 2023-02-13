@@ -6,8 +6,6 @@ Lianrui Yang
 
 Xiangyu Zeng
 
-Quanjiang Long
-
 Xinyu Wan
 
 
